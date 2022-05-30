@@ -7,3 +7,4 @@ To Use:
   - Name the tasks one by one and click "Add Todo"
   - Check the boxes once completed
   - Use the "Clear Completed Todos" button to remove the checked tasks
+
